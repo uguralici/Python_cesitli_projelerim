@@ -1,4 +1,4 @@
-#Beden kitle endeksini hesaplayan program
+#Beden kitle endeksini hesaplayan program.
 while True:
  print(" ")
  print("Beden kitle endeksini hesaplayan programa hoşgeldiniz, lütfen kilo ve boy değerlerini giriniz.")
