@@ -8,7 +8,7 @@ while True:
  bedenkitleendeksi= kilo / (boy ** 2)
  print(" ")
  print("{}" "{:.2f}".format("Beden kitle endeksi: ", bedenkitleendeksi))
-  if bedenkitleendeksi >= 40:
+ if bedenkitleendeksi >= 40:
     print("morbid obez")
  elif 39.9> bedenkitleendeksi >= 30 :
     print("obez")
